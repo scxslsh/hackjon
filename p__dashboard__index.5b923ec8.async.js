@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[11],{"0rWx":function(n,r,a){"use strict";a.r(r);var c=a("OGIw"),e=a.n(c),s=a("nKUr");function t(){return Object(s["jsx"])("div",{children:Object(s["jsx"])("h1",{className:e.a.title,children:"Dashboard"})})}t.breadcrumbs=["Dashboard"],r["default"]=t},OGIw:function(n,r,a){}}]);
